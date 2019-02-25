@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">MC16006</string>
     <string name="action_settings">Settings</string>
+    <string name="boton1">Suma</string>
+    <string name="boton2">Resta</string>
+    <string name="boton3">Mult</string>
+    <string name="parametro1">Valor1</string>
+    <string name="parametro2">Valor2</string>
+    <string name="parametro3">Valor3</string>
+    <string name="resultado">Resultado</string>
 </resources>
